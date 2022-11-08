@@ -1,0 +1,21 @@
+<html>
+
+
+<head>
+<title>Розклад уроків</title>
+</head>
+</body>
+  <h1><center>Розклад уроків</center></h1>
+  <table border="1" style="border-collapse: collapse" width="100%">
+    <tr></td><td bgcolor="lightgray">День/№ ур.<th width="19%" bgcolor="lightgray">Понеділок</th><th width="19%" bgcolor="lightgray">Вівторок</th><th width="19%"bgcolor="lightgray">Середа</th><th width="19%" bgcolor="lightgray">Четвер</th><th width="19%" bgcolor="lightgray">П'ятниця</th></tr width="19%" bgcolor="lightgray">
+    <tr><td>1</td><td bgcolor="red"></td><td>Інформатика</td><td>Українська мова</td><td>Історія України</td><td>Алгебра</td></tr>
+    <tr><td>2</td><td>Алгебра</td><td>Геометрія</td><td>Англійська мова</td><td>Всесвітня історія</td><td>Геометрія</td></tr>
+    <tr><td>3</td><td>Українська мова</td><td>Фізика</td><td>Географія</td><td>Хімія</td><td>Англійська мова</td></tr>
+    <tr><td>4</td><td>Фізична культура</td><td>Хімія</td><td>Фізика</td><td>Біологія</td><td>Українська література</td></tr>
+    <tr><td>5</td><td>Англійська мова</td><td>Зарубіжна література</td><td>Хімія</td><td>Географія</td><td>Фізика</td></tr>
+    <tr><td>6</td><td>Іеформатика</td><td>Алгебра</td><td>Алгебра</td><td>Фізична культура</td><td>Геометрія</td></tr>
+    <tr><td>7</td><td>Історія України</td><td>Зарубіжна література</td><td>Українська література</td><td>Біологія</td><td>Фізична культура</td></tr>
+  </table> 
+    <p>Перегляньте мій <a href="https://sites.google.com/view/vse-pro-sport-com/%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0">блог</a></p>
+</body>
+</html>
